@@ -27,6 +27,9 @@ A iteração final prova que a otimização geométrica inteligente pode resulta
 
 ### 🗺️ Análise de Deformação e Tensão (Iteração Final)
 ![Gráfico de Deformação](<Media/Efficient support 2/deformation support 2.png>)
+
+https://github.com/user-attachments/assets/1e13afab-eef4-4409-8c57-8878d705af8a
+
 *(Gráfico de Deformação Total do design final de tubo fendido, demonstrando deslocamento quase nulo sob uma carga de compressão de 6750 N).*
 
 ## 📂 Estrutura do Repositório
