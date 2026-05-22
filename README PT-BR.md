@@ -26,7 +26,7 @@ A iteração final prova que a otimização geométrica inteligente pode resulta
 * **Fator de Segurança (FoS):** ~2.96 (A meta de projeto era >1.5)
 
 ### 🗺️ Análise de Deformação e Tensão (Iteração Final)
-![Gráfico de Deformação](Images/deformation_support_2.png)
+![Gráfico de Deformação](<Media/Efficient support 2/deformation support 2.png>)
 *(Gráfico de Deformação Total do design final de tubo fendido, demonstrando deslocamento quase nulo sob uma carga de compressão de 6750 N).*
 
 ## 📂 Estrutura do Repositório

@@ -26,7 +26,7 @@ The final iteration proves that intelligent geometric optimization can yield a f
 * **Factor of Safety (FoS):** ~2.96 (Target was >1.5)
 
 ### 🗺️ Deformation & Stress Analysis (Final Iteration)
-![Deformation Plot](Media/deformation_support_2.png)
+![Deformation Plot](<Media/Efficient support 2/deformation support 2.png>)
 *(Total Deformation plot of the final slotted-tube design, demonstrating near-zero displacement under a 6750 N compressive load).*
 
 ## 📂 Repository Structure
