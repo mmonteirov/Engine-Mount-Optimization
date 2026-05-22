@@ -27,6 +27,9 @@ The final iteration proves that intelligent geometric optimization can yield a f
 
 ### 🗺️ Deformation & Stress Analysis (Final Iteration)
 ![Deformation Plot](<Media/Efficient support 2/deformation support 2.png>)
+
+https://github.com/user-attachments/assets/f3c9e20c-89c7-40aa-9132-f829cb9e5029
+
 *(Total Deformation plot of the final slotted-tube design, demonstrating near-zero displacement under a 6750 N compressive load).*
 
 ## 📂 Repository Structure
